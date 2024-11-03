@@ -1,4 +1,0 @@
-Tomas Aristizabal Gomez
-16 años de edad
-Me gustaria aprender a estructurar y mejorar mi codigo siguiendo los principios de POO, aspiro a comprender a profundidad 
-todos los conceptos de este tema y poder aplicarlos en proyectos practicos
