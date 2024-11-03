@@ -1,0 +1,1 @@
+La carpeta archivos ahora puede contener archivos y realizar commits porque se creó y agregó al repositorio localmente.
