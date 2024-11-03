@@ -1,4 +1,11 @@
 Tomas Aristizabal Gomez
 16 años de edad
-Me gustaria aprender a estructurar y mejorar mi codigo siguiendo los principios de POO, aspiro a comprender a profundidad 
-todos los conceptos de este tema y poder aplicarlos en proyectos practicos
+Me gustaria aprender a estructurar y mejorar mi codigo siguiendo los principios de POO, aspiro a comprender a profundidad todos
+los conceptos de este tema y poder aplicarlos en proyectos practicos
+
+La carpeta archivos ahora puede contener archivos y realizar commits porque se creó y agregó al repositorio localmente.
+
+Es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones porque pueden generarse conflictos
+de sincronización. Si dos personas o ubicaciones editan el mismo archivo de manera independiente, los cambios pueden sobrescribirse 
+o entrar en conflicto, lo que requiere intervención manual para decidir cuál versión conservar. Esto puede llevar a errores si no se
+revisa cuidadosamente.
